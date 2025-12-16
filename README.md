@@ -62,7 +62,7 @@ Deployed an enterprise Business Intelligence platform delivering **ETL and RAG A
 
 ### Interactive RAG Chat
 ![RAG Chat](./Images/RAG_test.png)
-*Korean language RAG chat interface with LG Exaone 3.5 model*
+* RAG chat interface with Model Selector (Ollsma Models)*
 
 ### ETL Scheduler
 ![Scheduler](./Images/Schedular.png)
@@ -74,7 +74,7 @@ Deployed an enterprise Business Intelligence platform delivering **ETL and RAG A
 
 ### System Health Monitoring
 ![System Health](./Images/System_health.png)
-*Live monitoring of all services including MySQL, Qdrant, and Admin Panel*
+*Live monitoring of all services including MySQL, Qdrant, Admin Panel, and Ollama*
 
 ### User Behavior Analytics
 ![User Behavior](./Images/User_behaviour.png)
