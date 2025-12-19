@@ -57,7 +57,7 @@ Deployed an enterprise Business Intelligence platform delivering **ETL and RAG A
 *Comprehensive pipeline management showing 38,854 completed jobs*
 
 ### RAG Analytics
-![RAG Analytics](./Images/Rag_analytics.png)
+![RAG Analytics](./Images/Rag_analytics1.png)
 *AI performance metrics: 97.2% precision, 70% recall, 82.3% F1 score*
 
 ### Interactive RAG Chat
